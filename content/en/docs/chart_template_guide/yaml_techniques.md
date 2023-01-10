@@ -248,7 +248,7 @@ coffee: >-
   Espresso
 ```
 
-The above will produce `Latte\n  12 oz\n  16 oz\nCappuccino Espresso`. Note that
+The above will produce `Latte\n  12 oz\n  16 oz\nCappuccino\nEspresso`. Note that
 both the spacing and the newlines are still there.
 
 ## Embedding Multiple Documents in One File
